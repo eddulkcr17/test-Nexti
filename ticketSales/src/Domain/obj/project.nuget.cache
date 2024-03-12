@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mZNNOlO4BZVFqzMNJm9CkvVDcduwfkhpWepghgh5RSX+HQA4cPQL6iQZl5UUkNJNfGgOKiU+lIttqc4VX6SoaQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eddu_\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\eddu_\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\eddu_\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\eddu_\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
