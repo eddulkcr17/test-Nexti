@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mZNNOlO4BZVFqzMNJm9CkvVDcduwfkhpWepghgh5RSX+HQA4cPQL6iQZl5UUkNJNfGgOKiU+lIttqc4VX6SoaQ==",
+  "dgSpecHash": "zlc+M4r6ZuALw8in6+7QiaV+h4+4IYLhO9PbO17vtQl9g/LB1gZX0yP7WiNngl4ttRo8gTeSgqGFDFL/GLWrVQ==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eddu_\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
     "C:\\Users\\eddu_\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",

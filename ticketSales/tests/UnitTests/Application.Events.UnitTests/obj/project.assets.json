@@ -8227,11 +8227,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\DDD\\nexti\\ticketSales\\tests\\UnitTests\\Application.Events.UnitTests\\Application.Events.UnitTests.csproj",
+      "projectUniqueName": "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\tests\\UnitTests\\Application.Events.UnitTests\\Application.Events.UnitTests.csproj",
       "projectName": "Application.Events.UnitTests",
-      "projectPath": "D:\\Dev\\DDD\\nexti\\ticketSales\\tests\\UnitTests\\Application.Events.UnitTests\\Application.Events.UnitTests.csproj",
+      "projectPath": "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\tests\\UnitTests\\Application.Events.UnitTests\\Application.Events.UnitTests.csproj",
       "packagesPath": "C:\\Users\\eddu_\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\DDD\\nexti\\ticketSales\\tests\\UnitTests\\Application.Events.UnitTests\\obj\\",
+      "outputPath": "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\tests\\UnitTests\\Application.Events.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8252,11 +8252,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Application\\Application.csproj": {
-              "projectPath": "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Application\\Application.csproj"
+            "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Application\\Application.csproj": {
+              "projectPath": "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Application\\Application.csproj"
             },
-            "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Domain\\Domain.csproj"
+            "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Domain\\Domain.csproj"
             }
           }
         }

@@ -4172,11 +4172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Web.API\\Web.API.csproj",
+      "projectUniqueName": "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Web.API\\Web.API.csproj",
       "projectName": "Web.API",
-      "projectPath": "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Web.API\\Web.API.csproj",
+      "projectPath": "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Web.API\\Web.API.csproj",
       "packagesPath": "C:\\Users\\eddu_\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Web.API\\obj\\",
+      "outputPath": "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Web.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4198,11 +4198,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Application\\Application.csproj": {
-              "projectPath": "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Application\\Application.csproj"
+            "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Application\\Application.csproj": {
+              "projectPath": "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Application\\Application.csproj"
             },
-            "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Infraestructure\\Infraestructure.csproj": {
-              "projectPath": "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Infraestructure\\Infraestructure.csproj"
+            "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Infraestructure\\Infraestructure.csproj": {
+              "projectPath": "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Infraestructure\\Infraestructure.csproj"
             }
           }
         }

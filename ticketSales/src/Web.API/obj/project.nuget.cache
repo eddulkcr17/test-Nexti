@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1KRZaQrODzEIz2PMA4hcT3SHpkDcnmxd5SAULZ3EN31yylw84fCwxNvupL6poE7bEwtrhkwl7e4j1noX17sXag==",
+  "dgSpecHash": "GrG1LVUNnYmVgQGdpQkHRO1K7dWf7MTdfVMYwPydw0Ih3Qrkif1Ds5BKmmJC1W/UHODwgwye/LGacG8zUJfK8w==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Web.API\\Web.API.csproj",
+  "projectFilePath": "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Web.API\\Web.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eddu_\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\eddu_\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

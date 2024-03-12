@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Domain\\Domain.csproj": {}
+    "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Domain\\Domain.csproj": {
+    "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\eddu_\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\DDD\\nexti\\ticketSales\\src\\Domain\\obj\\",
+        "outputPath": "D:\\Dev\\DDD\\nexti\\test-Nexti\\ticketSales\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
